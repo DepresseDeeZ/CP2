@@ -2,6 +2,9 @@
 
 Welcome to Tasty Table, your all-in-one solution for discovering, creating, and sharing recipes globally. Whether you're a seasoned chef looking for inspiration or a novice in the kitchen seeking guidance, Tasty Table is here to elevate your culinary experience.
 
+## Demo
+[TastyTable](https://sem-6-43cac.web.app/)
+
 ## Features
 
 - **Advanced Search**: Explore our vast database of recipes with ease using our advanced search functionality. Filter recipes by name, ingredient, cuisine, dietary restrictions, and more to find the perfect dish for any occasion.
